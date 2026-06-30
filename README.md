@@ -17,11 +17,21 @@ _ Metodologias Ágeis
 - scripts/script.js
 - assets/
 
+## Novas Funcionalidades
+-Adicionada interatividade com javaScript.
+-criada a seção de contato.
+-Melhorias na organização e no layout da página.
+
+## Estruturas Atualizadas do site
+-Home
+-Sobre
+-contato
+
 ## Equipe
 
-- Integrante 1
-- Integrante 2
-- Integrante 3
+- Adrieli
+- Alessandra
+- Luana
 
 ## Repositório
 

@@ -11,11 +11,7 @@ body {
 }
 
 header { 
-<<<<<<< HEAD
-    background-color: #0066cc;
-=======
     background-color: #a300ccf1;
->>>>>>> 91446a0a792b58366ad3951b854b0ab694a555a9
     color: white; 
     padding: 20px;
     text-align: center;
@@ -35,11 +31,8 @@ section {
 
 button {
     padding: 10px 20px;
-<<<<<<< HEAD
-    background-color: #0066cc;
-=======
+    background-color: #0066cc
     background-color: #5f00cc;
->>>>>>> 91446a0a792b58366ad3951b854b0ab694a555a9
     color: white;
     border: none;
     cursor: pointer;
@@ -47,19 +40,13 @@ button {
 }
 
 button:hover {
-<<<<<<< HEAD
     background-color: #004a99;
 =======
     background-color: #750099;
->>>>>>> 91446a0a792b58366ad3951b854b0ab694a555a9
 }
 
 footer {
     text-align: center;
     margin-top: 20px;
     padding: 15px;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 91446a0a792b58366ad3951b854b0ab694a555a9
